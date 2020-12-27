@@ -56,8 +56,8 @@ Notes :
 ----
 
 ### you can consider :
-- Principles `as` are low-level 
-- Patterns `as` are high-level
+- Principles `as` low-level 
+- Patterns `as` high-level
 -----
 
 ### Pattern Classifications 
