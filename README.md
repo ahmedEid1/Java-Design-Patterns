@@ -341,8 +341,31 @@ Notes :
     
 ----
 #### Examples :
+- **_The Facade Pattern_** 
+  
 
+- provide a simplified interface to use subSystems classes :
+    - it does not encapsulate these classes , just provide a simple interface to access their functionality 
+- it decouple the client from the subSystem itself
 
+---
+
+![the Facade Pattern](media/10.PNG)
+
+----
+- _**the Decorator Pattern**_ :
+
+- intention : 
+  - adding the decorations dynamically in runtime instead of using inheritance in compile time
+
+----
+![the Decorator Pattern](media/11.PNG)
+---
+- Note :
+    - this Pattern does not use inheritance for behaviour but 
+        - for type matching
+    
+----
 
     
 
