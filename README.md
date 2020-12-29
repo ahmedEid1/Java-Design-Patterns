@@ -7,7 +7,7 @@
 - why are design patterns important? (Done)
 - Behaviour Design Patterns (Done)
 - Creational Design Patterns (Done)
-- Structural Design Patterns
+- Structural Design Patterns (Done)
 - other design patterns in java
 -----
 ## Understanding Design Patterns 
@@ -366,7 +366,52 @@ Notes :
         - for type matching
     
 ----
+- _**The Adaptor Pattern**_ :
+  
+- example for a use case :
+  - when you try to integrate a legacy code into a new one
+  
+- use an adaptor instead of rewriting all your client-side code
+    
+    
+- Note :
+    - in java, you can not inherit from more than one class, so we use the object version of the adaptor pattern
+    
 
+![the Object Adaptor Patter](media/12.PNG)
+- Note : here the target is an interface.
+----
+- The Proxy Pattern
+
+
+- what`s a proxy ?
+    - a representative (surrogate) for another object that behave exactly like the real object
+----
+- what`s the benefit of a proxy ?
+    - allow you to add new functionality before calling the real object
+---
+- the goal of the proxy pattern :
+    - to provide a surrogate (placeholder) for an object :
+        - to control access to it
+---    
+![the proxy pattern](media/13.PNG)
+---
+- Common uses for proxies :
+    - remote Calls :
+        - to work as if they were local
+    - Security :
+        - to control access to resources based on the access permissions 
+    - Cache :
+        - to speed the calls
+    - Virtual Proxies :
+        - for example initializing resources that are expensive to create
+----
+----
+----
+----
+
+
+  
     
 
     
