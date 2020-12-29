@@ -6,7 +6,7 @@
 - understanding design patterns (Done)
 - why are design patterns important? (Done)
 - Behaviour Design Patterns (Done)
-- Creational Design Patterns
+- Creational Design Patterns (Done)
 - Structural Design Patterns
 - other design patterns in java
 -----
@@ -284,7 +284,7 @@ Notes :
   
 
 2. factory method [is a class Pattern (uses inheritance)] :
-    - create a hierarchy of factories and hierarchy for the products
+    - create a hierarchy of factories and a hierarchy of the products
 
 ![the factory method pattern](media/7.png)   
   
@@ -292,14 +292,55 @@ Notes :
 ----
 
 3. simple factory :
-    - so simple be considered a pattern
+    - so simple to be considered a pattern
+    
+----
+### the Builder Pattern
+##### offer a solution for the problem of constructing classes with many (optional) attributes 
+
+----
+- **the problem of constructing classes with many optional attributes using :**
+    - _Constructors_ :
+        - for every optional attribute we add a constructor   
+        - the number of constructors can get very large quickly 
+    - _Setter methods_ :
+        - the construction is split into multiple method calls 
+            - so there is no way to enforce all the required attributes
+                - which may make the object state inconsistent 
+    
+----
+- **how does the builder pattern solve this ?!**
+    - by separating the construction of the objects from its representation 
+        - which allow the construction process to create different representations 
+    
+-----
+![the Builder Pattern](media/9.PNG)
+
+----
+---
+---
+---
+### <u>Structural Design Pattern (7)</u> 
+###### Describe how classes and objects are compost to form larger structures  
+
+- _**the Adaptor Pattern**_ is the only Class Structural Pattern
+  - but can also be implemented using composition, so it is kinda of both!!..
     
 
+- the others are object Structural patterns :
+    1. Decorator 
+    2. Bridge :
+       - uses object composition to :
+            - breach two hierarchies (one for abstraction and the other for implementation)
+                - to combine two different variation of these hierarchies
+                - or compose the objects into complex structures 
+    3. Facade
+    4. Proxy
+    5. Composite 
+    6. FlyWeight 
     
- 
-
-
-
+----
+#### Examples :
 
 
 
