@@ -9,6 +9,7 @@
 - Creational Design Patterns (Done)
 - Structural Design Patterns (Done)
 - other design patterns in java (Done)
+- summary + tips + next step
 -----
 ## Understanding Design Patterns 
 _**Definition**_ :
@@ -510,6 +511,30 @@ Notes :
 ---
 ---
 ---
+  
+### Tips for using patterns
+- **if you are not careful patterns can complicate things by :**
+    - adding unnecessarily layers of objects 
+    - or implementing overkilling solutions
     
 
+- Note : this is called _**pattern abuse**_
+
+
+- _**When to use a pattern ?**_
+    - always start from the simplest code that can do the job :
+         - use patterns if you think necessarily to solve the problem
+         - or you  will deal with changes in the future
+  
+
+    it is a matter of knowledge and experience  
+
+----
+#### Tips for implementing methods :
+- use meaningful names for classes and methods
+- practice refactoring (improving the structure without changing the behaviour)
     
+------------
+-----------
+---------
+---------
