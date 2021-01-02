@@ -26,7 +26,7 @@
 - Note : this is called _**pattern abuse**_
 ---
 
-###_**When to use a pattern ?**_
+### _**When to use a pattern ?**_
 - always start from the simplest code that can do the job :
      - use patterns if you think it is necessarily to solve the problem
      - use them if you  will deal with changes in the future
