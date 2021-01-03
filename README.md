@@ -13,7 +13,7 @@
 - [other design patterns in java](CoursesNotes/1_Design_Patterns_in_Java_The_Big_Picture/content/other_design_patternsin_java.md)
 
 ----
-## 2. [Design Patterns in Java: Creational](CoursesNotes/2_%20Design_Patterns_in_Java_Creational/README.md)
+## 2. [Design Patterns in Java: Creational](CoursesNotes/2_Design_Patterns_in_Java_Creational/README.md)
 ### Course Content :
-- [the Singleton Pattern](CoursesNotes/2_%20Design_Patterns_in_Java_Creational/content/singleton.md)
+- [the Singleton Pattern](CoursesNotes/2_Design_Patterns_in_Java_Creational/content/singleton.md)
 ----
