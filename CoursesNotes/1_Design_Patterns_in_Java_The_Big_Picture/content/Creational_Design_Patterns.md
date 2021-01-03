@@ -15,7 +15,7 @@
 - there is `5` Creational Design patterns :
     - Factory Method (the only Class Creational Pattern)
     - Abstract Factory
-    - Builder
+    - Creational.Builder
     - Singleton
     - Prototype
 ---
@@ -78,7 +78,7 @@
     - so simple to be considered a pattern
 
 ----
-### the Builder Pattern
+### the Creational.Builder Pattern
 ##### offer a solution for the problem of constructing classes with many (optional) attributes
 
 ----
@@ -97,7 +97,7 @@
         - which allow the construction process to create different representations
 
 -----
-![the Builder Pattern](../media/9.PNG)
+![the Creational.Builder Pattern](../media/9.PNG)
 
 ---
 ---
