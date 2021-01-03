@@ -30,7 +30,7 @@
 - Q. singleton is static in nature but is not implemented using static class why ?!
   - Ans. Singleton need to be threat safe and static does not Guarantee this
 ---
-#### [example of a lazy loaded thread safe Singleton](../../../src/Creational/Singleton/DbSingletonTester.java)
+#### [example of a lazy loaded thread safe Singleton](../../../src/Creational/Singleton/DbSingleton.java)
 
 ----
 ## Pitfalls
