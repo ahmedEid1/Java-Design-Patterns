@@ -13,6 +13,12 @@ public class Registry {
     public Item createItem(String type){
         Item item = null;
 
+        try {
+            item = (Item) (items.get(type)).clone();
+        } catch (CloneNotSupportedException e) {
+            e.printStackTrace();
+        }
+
         return item;
     }
 
@@ -21,13 +27,13 @@ public class Registry {
         movie.setTitle("my movie");
         movie.setPrice(23.3);
         movie.setRuntime(3.2);
-        items.put("movie", movie);
+        items.put("Movie", movie);
 
         Book book = new Book();
         book.setTitle("my book");
         book.setPrice(2113.3);
         book.setNumOfPages(34);
-        items.put("book", book);
+        items.put("Book", book);
 
     }
 }
