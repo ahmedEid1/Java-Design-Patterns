@@ -17,4 +17,5 @@
 ### Course Content :
 - [The Singleton Pattern](CoursesNotes/2_Design_Patterns_in_Java_Creational/content/singleton.md)
 - [The Builder Pattern](CoursesNotes/2_Design_Patterns_in_Java_Creational/content/builder.md) 
+- [The Prototype Pattern](CoursesNotes/2_Design_Patterns_in_Java_Creational/content/Prototype.md)
 ----
