@@ -18,4 +18,6 @@
 - [The Singleton Pattern](CoursesNotes/2_Design_Patterns_in_Java_Creational/content/singleton.md)
 - [The Builder Pattern](CoursesNotes/2_Design_Patterns_in_Java_Creational/content/builder.md) 
 - [The Prototype Pattern](CoursesNotes/2_Design_Patterns_in_Java_Creational/content/Prototype.md)
+- [The Factory Patterns](CoursesNotes/2_Design_Patterns_in_Java_Creational/content/Factory.md)
+- [The Abstract Factory Pattern](CoursesNotes/2_Design_Patterns_in_Java_Creational/content/Abstract_Factory.md)
 ----
