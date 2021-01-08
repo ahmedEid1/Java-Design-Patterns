@@ -1,13 +1,14 @@
 - [<<< Course Pages](../README.md)
 ---
-# The Creational.Builder Pattern
+# The Builder Pattern
 ## overview
 - handle the construction of object that may contain a lot of parameters 
 - makes the object immutable once it is constructed
 ## Examples in Java :
 - `StringBuilder`
 - `DocumentBuilder`
-- `Locale.Creational.Builder`  (what is Locale ?!)
+- `Locale.Creational.Builder`  
+    - (a locale is a set of parameters that defines the user's language, region and any special variant preferences that the user wants to see in their user interface.)
 ### when to use the builder pattern ?
 - when the construction of an object is complex
     - complex means lots of args. for the constructor or 

@@ -35,8 +35,8 @@
 
 ----
 #### what is the different between a deep and shallow copy ?
-- a shallow copy the immediate properties 
-- a deep copy everything including the object referenced 
+- a shallow copy copies the immediate properties 
+- a deep copy copies everything including the object referenced 
 -----
 ![the prototype pattern](../media/3.PNG)
 
@@ -60,7 +60,7 @@
     - using a copy constructor or the clone method
   - copy an existing object
 - the Factory
-  - flexible objection construction 
+  - flexible object construction 
     - has multiple constructors 
   - use `new` and create fresh objects
 
