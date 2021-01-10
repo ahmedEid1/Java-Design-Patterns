@@ -1,7 +1,7 @@
 [<<< Course Page](../README.md)
 -----
 ##  Exploring Other Design Patterns
-###**_Enterprise Development Patterns_**
+### **_Enterprise Development Patterns_**
 - Challenges that arise in enterprise Development :
     - _**Data Persistence**_ :
         - ex. transactions across multiple databases
