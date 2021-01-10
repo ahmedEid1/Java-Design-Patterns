@@ -1,7 +1,7 @@
 # <u>Design Patterns Courses</u>
 
 ---
-## 1. [Design Patterns in Java: The Big Picture](CoursesNotes/1_Design_Patterns_in_Java_The_Big_Picture/README.md)
+## 1. `pluralsight` [Design Patterns in Java: The Big Picture](CoursesNotes/1_Design_Patterns_in_Java_The_Big_Picture/README.md)
 
 
 ### Course Content :
@@ -13,7 +13,7 @@
 - [other design patterns in java](CoursesNotes/1_Design_Patterns_in_Java_The_Big_Picture/content/other_design_patternsin_java.md)
 
 ----
-## 2. [Design Patterns in Java: Creational](CoursesNotes/2_Design_Patterns_in_Java_Creational/README.md)
+## 2. `pluralsight` [Design Patterns in Java: Creational](CoursesNotes/2_Design_Patterns_in_Java_Creational/README.md)
 ### Course Content :
 - [The Singleton Pattern](CoursesNotes/2_Design_Patterns_in_Java_Creational/content/singleton.md)
 - [The Builder Pattern](CoursesNotes/2_Design_Patterns_in_Java_Creational/content/builder.md) 
@@ -21,3 +21,8 @@
 - [The Factory Patterns](CoursesNotes/2_Design_Patterns_in_Java_Creational/content/Factory.md)
 - [The Abstract Factory Pattern](CoursesNotes/2_Design_Patterns_in_Java_Creational/content/Abstract_Factory.md)
 ----
+
+##  3. `lynda`[Java Design Pattern Structural](CoursesNotes/3_Java_Design_Patterns_Structural/README.md)
+### Course Content :
+
+---
