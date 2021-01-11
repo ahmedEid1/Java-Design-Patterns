@@ -16,3 +16,6 @@
 - [The Adaptor Pattern](content/adaptor.md)
 - [The Bridge Pattern](content/bridge.md)
 - [The Composite Pattern](content/composite.md)
+- [The Decorator Pattern](content/decorator.md)
+- [The Flyweight Pattern](content/flyweight.md)
+- [The Proxy Pattern](content/proxy.md)

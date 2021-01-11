@@ -24,5 +24,11 @@
 
 ##  3. `lynda`[Java Design Pattern Structural](CoursesNotes/3_Java_Design_Patterns_Structural/README.md)
 ### Course Content :
-
+[]()
+- [The Adaptor Pattern](CoursesNotes/3_Java_Design_Patterns_Structural/content/adaptor.md)
+- [The Bridge Pattern](CoursesNotes/3_Java_Design_Patterns_Structural/content/bridge.md)
+- [The Composite Pattern](CoursesNotes/3_Java_Design_Patterns_Structural/content/composite.md)
+- [The Decorator Pattern](CoursesNotes/3_Java_Design_Patterns_Structural/content/decorator.md)
+- [The Flyweight Pattern](CoursesNotes/3_Java_Design_Patterns_Structural/content/flyweight.md)
+- [The Proxy Pattern](CoursesNotes/3_Java_Design_Patterns_Structural/content/proxy.md)
 ---
