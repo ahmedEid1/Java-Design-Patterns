@@ -4,7 +4,7 @@
 
 ## Content :
 1. [Chain of responsibility](content/chain_of_responsibility.md)
-2. Command
+2. [Command](content/command.md)
 3. interpreter
 4. Iterator
 5. Mediator 
