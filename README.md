@@ -24,7 +24,6 @@
 
 ##  3. `lynda`[Java Design Pattern Structural](CoursesNotes/3_Java_Design_Patterns_Structural/README.md)
 ### Course Content :
-[]()
 - [The Adaptor Pattern](CoursesNotes/3_Java_Design_Patterns_Structural/content/adaptor.md)
 - [The Bridge Pattern](CoursesNotes/3_Java_Design_Patterns_Structural/content/bridge.md)
 - [The Composite Pattern](CoursesNotes/3_Java_Design_Patterns_Structural/content/composite.md)
@@ -32,3 +31,7 @@
 - [The Flyweight Pattern](CoursesNotes/3_Java_Design_Patterns_Structural/content/flyweight.md)
 - [The Proxy Pattern](CoursesNotes/3_Java_Design_Patterns_Structural/content/proxy.md)
 ---
+
+## 4. `Pluralsight` Design Patterns in Java: Behavioral
+### Course Content :
+1. [Chain of Responsibility](CoursesNotes/4_Design_patterns_in_Java_Behavioral/content/chain_of_responsibility.md)
