@@ -36,3 +36,4 @@
 ### Course Content :
 1. [Chain of Responsibility](CoursesNotes/4_Design_patterns_in_Java_Behavioral/content/chain_of_responsibility.md)
 2. [Command](CoursesNotes/4_Design_patterns_in_Java_Behavioral/content/command.md)
+3. [Interpreter](CoursesNotes/4_Design_patterns_in_Java_Behavioral/content/interpreter.md)
