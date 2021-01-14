@@ -9,7 +9,7 @@
 1. [Chain of responsibility](content/chain_of_responsibility.md)
 2. [Command](content/command.md)
 3. [interpreter](content/interpreter.md)
-4. Iterator
+4. [Iterator](content/iterator.md)
 5. Mediator 
 6. Memento
 7. Observer
