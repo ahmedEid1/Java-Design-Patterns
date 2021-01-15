@@ -10,7 +10,7 @@
 2. [Command](content/command.md)
 3. [interpreter](content/interpreter.md)
 4. [Iterator](content/iterator.md)
-5. Mediator 
+5. [Mediator](content/mediator.md) 
 6. Memento
 7. Observer
 8. State
