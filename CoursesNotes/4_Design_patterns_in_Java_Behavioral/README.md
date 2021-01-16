@@ -11,7 +11,7 @@
 3. [interpreter](content/interpreter.md)
 4. [Iterator](content/iterator.md)
 5. [Mediator](content/mediator.md) 
-6. Memento
+6. [Memento](content/memento.md)
 7. Observer
 8. State
 9. Strategy
