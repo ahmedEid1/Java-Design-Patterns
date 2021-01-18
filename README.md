@@ -41,3 +41,5 @@
 5. [Memento](CoursesNotes/4_Design_patterns_in_Java_Behavioral/content/memento.md)
 6. [Observer](CoursesNotes/4_Design_patterns_in_Java_Behavioral/content/observer.md)
 7. [State](CoursesNotes/4_Design_patterns_in_Java_Behavioral/content/state.md)
+8. [Strategy](CoursesNotes/4_Design_patterns_in_Java_Behavioral/content/strategy.md)
+9. [Template method](CoursesNotes/4_Design_patterns_in_Java_Behavioral/content/templateMethod.md)

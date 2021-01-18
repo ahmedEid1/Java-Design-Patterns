@@ -14,6 +14,6 @@
 6. [Memento](content/memento.md)
 7. [Observer](content/observer.md)
 8. [State](content/state.md)
-9. Strategy
-10. Template Method
+9. [Strategy](content/strategy.md)
+10. [Template Method](content/templateMethod.md)
 11. Visitor
