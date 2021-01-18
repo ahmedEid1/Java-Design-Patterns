@@ -34,33 +34,25 @@
 
 ---
 ### 
-[Code Example](../../../src/Behavioral/Memento/)
+[Code Example](../../../src/Behavioral/Memento/MementoDemo.java)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+----
+## Pitfalls
+- can be expensive
+- Care taker history should be deleted at some point
+- may Expose information
+----
+## Comparing the Memento with the Command :
+- Memento :
+    - capture states
+        - every state is independent
+    - create a history with the caretaker 
+- Command :
+    - Capture requests
+        - independent request
+    - can implement history but not the focus of the pattern
+        - **side benefit**
+    
 
 ----
 - [<<< Course Pages](../README.md)

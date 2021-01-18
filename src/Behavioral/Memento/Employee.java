@@ -35,4 +35,14 @@ public class Employee {
                 ", phone='" + phone + '\'' +
                 '}';
     }
+
+    public EmployeeMemento save() {
+        return new EmployeeMemento(name, phone);
+    }
+
+    public void revert(EmployeeMemento mem){
+        this.name = mem.getName();
+        this.phone = mem.getPhone();
+
+    }
 }
