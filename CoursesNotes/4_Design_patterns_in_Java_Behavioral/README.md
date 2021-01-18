@@ -13,7 +13,7 @@
 5. [Mediator](content/mediator.md) 
 6. [Memento](content/memento.md)
 7. [Observer](content/observer.md)
-8. State
+8. [State](content/state.md)
 9. Strategy
 10. Template Method
 11. Visitor

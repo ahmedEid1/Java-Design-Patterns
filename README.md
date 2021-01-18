@@ -39,4 +39,5 @@
 3. [Interpreter](CoursesNotes/4_Design_patterns_in_Java_Behavioral/content/interpreter.md)
 4. [Mediator](CoursesNotes/4_Design_patterns_in_Java_Behavioral/content/mediator.md)
 5. [Memento](CoursesNotes/4_Design_patterns_in_Java_Behavioral/content/memento.md)
-5. [Observer](CoursesNotes/4_Design_patterns_in_Java_Behavioral/content/observer.md)
+6. [Observer](CoursesNotes/4_Design_patterns_in_Java_Behavioral/content/observer.md)
+7. [State](CoursesNotes/4_Design_patterns_in_Java_Behavioral/content/state.md)
