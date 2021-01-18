@@ -16,4 +16,4 @@
 8. [State](content/state.md)
 9. [Strategy](content/strategy.md)
 10. [Template Method](content/templateMethod.md)
-11. Visitor
+11. [Visitor](content/visitor.md)
