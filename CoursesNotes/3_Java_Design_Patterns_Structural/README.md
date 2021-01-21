@@ -19,3 +19,4 @@
 - [The Decorator Pattern](content/decorator.md)
 - [The Flyweight Pattern](content/flyweight.md)
 - [The Proxy Pattern](content/proxy.md)
+- [The Facade Pattern](content/facade.md)

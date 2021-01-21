@@ -30,6 +30,7 @@
 - [The Decorator Pattern](CoursesNotes/3_Java_Design_Patterns_Structural/content/decorator.md)
 - [The Flyweight Pattern](CoursesNotes/3_Java_Design_Patterns_Structural/content/flyweight.md)
 - [The Proxy Pattern](CoursesNotes/3_Java_Design_Patterns_Structural/content/proxy.md)
+- [The Facade Pattern](CoursesNotes/3_Java_Design_Patterns_Structural/content/facade.md)
 ---
 
 ## 4. `Pluralsight` [Design Patterns in Java: Behavioral](CoursesNotes/4_Design_patterns_in_Java_Behavioral/README.md)
@@ -45,3 +46,10 @@
 9. [Strategy](CoursesNotes/4_Design_patterns_in_Java_Behavioral/content/strategy.md)
 10. [Template method](CoursesNotes/4_Design_patterns_in_Java_Behavioral/content/templateMethod.md)
 11. [Visitor](CoursesNotes/4_Design_patterns_in_Java_Behavioral/content/visitor.md)
+---
+---
+## Round 2
+
+## 5. `Lynda` [Design Patterns](CoursesNotes/5_Design_patterns/README.md)
+
+## 6. `Pluralsight` [Design Patterns in Java: Structural](CoursesNotes/6_Design_Patterns_in_Java_Structural/README.md)
