@@ -8,6 +8,6 @@
 2. [Bridge](content/bridge.md)
 3. [Composite](content/composite.md)
 4. [Decorator](content/decorator.md)
-5. Facade
+5. [Facade](content/facade.md)
 6. FlyWeight
 7. Proxy

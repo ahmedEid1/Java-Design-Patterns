@@ -24,7 +24,6 @@
     - a lot of multiple little objects
 - often confused with simple inheritance
 ---
-
 ---
 [Course Page >>>](../README.md)
 
